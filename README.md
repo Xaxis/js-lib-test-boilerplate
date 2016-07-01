@@ -15,7 +15,7 @@ Includes Mocha and Chai integrated w/ grunt task runner to allow for test driven
 Clone the repo and then copy all files to your project directory.
 
 ```
-git clone https://github.com/Xaxis/js-lib-boilerplate.git
+git clone https://github.com/Xaxis/js-lib-test-boilerplate.git
 ```
 
 Update LICENSE, package.json, README.md to match your project details then npm install from your project root.
