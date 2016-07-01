@@ -1,5 +1,5 @@
 /* Example test */
-describe('Test axes.js', function() {
+describe('Example tests', function() {
 
   // LIB.method1
   describe('LIB.method1', function() {
