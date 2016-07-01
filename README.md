@@ -8,7 +8,7 @@ Wil Neeley ( [@wilneeley](http://twitter.com/wilneeley) / [github.com](https://g
 
 A boilerplate for rapidly spinning up JavaScript libraries /w testing.
 
-Includes Mocha and Chai w/ integrated w/ grunt to allow for test driven development.
+Includes Mocha and Chai integrated w/ grunt task runner to allow for test driven development.
 
 ## Getting started
 
